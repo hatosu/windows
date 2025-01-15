@@ -1,0 +1,23 @@
+1. download all of these manually:
+github.com/hluk/CopyQ/releases/latest
+github.com/AnimeEffectsDevs/AnimeEffects/releases/latest
+https://www.blackmagicdesign.com/products/davinciresolve
+
+2. delete all system fonts, and install these instead:
+https://files.catbox.moe/qcj59b.ttf
+
+2. search "create a restore point" and make sure restore points are enabled
+
+3. uninstall applications with bcuninstaller
+
+4. run with admin powershell (dont forget oo10shutup): irm "https://christitus.com/win" | iex
+
+5. disable mouse acceleration
+
+6. if prebuilt or laptop, install all official drivers BEFORE nvidia/amd/intel ones
+
+7. install latest stock nvidia/amd/intel drivers
+
+8. import files from the "import" folder
+
+9. think of anything else that should be performed thats not on this list, and do it
