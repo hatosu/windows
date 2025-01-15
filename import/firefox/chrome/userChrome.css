@@ -1,0 +1,6 @@
+#navigator-toolbox::after { border-bottom: 0px !important; }
+#nav-bar { box-shadow: none !important; border-top: none !important; }
+#navigator-toolbox { background-color: #1c1c1b !important; }
+#urlbar-background { background: #313438 !important; }
+:root { --toolbar-bgcolor: #1c1c1b !important; }
+:root { --toolbar-color: #EBF5FE !important; }

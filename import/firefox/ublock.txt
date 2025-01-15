@@ -1,0 +1,5 @@
+discord.com##.embedMargin_b0068a.embedDescription_b0068a
+discord.com##div.embedField_b0068a:nth-of-type(2)
+discord.com##.embedMargin_b0068a.embedTitle_b0068a
+discord.com##.sidebar_a4d4d9
+discord.com##.guilds_a4d4d9.wrapper_fea3ef
