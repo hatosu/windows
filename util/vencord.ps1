@@ -8,15 +8,19 @@ function _install {
   npm i -g pnpm
   cd "$env:USERPROFILE\"
   git clone https://github.com/Vendicated/Vencord
-  cd .\Vencord\
+  cd "$env:USERPROFILE\Vencord\"
   pnpm install
-  cd .\src\
+  cd "$env:USERPROFILE\Vencord\src\"
   mkdir userplugins
-  cd .\userplugins\
+  cd "$env:USERPROFILE\Vencord\src\userplugins\"
+
+  # add git clones of custom plugins here
   git clone https://github.com/D3SOX/vc-betterActivities
+
   cd "$env:USERPROFILE\Vencord\"
   pnpm build
   pnpm inject
+  cd "$env:USERPROFILE\"
 }
 
 if (Test-Path -Path "$env:USERPROFILE\Vencord\src") {
