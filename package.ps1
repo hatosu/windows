@@ -13,6 +13,7 @@ winget install --id=Microsoft.PowerShell -e
 winget install --id=Nvidia.PhysX -e
 winget install --id=Nvidia.Broadcast -e
 winget install --id=glzr-io.glazewm -e
+winget install --id=glzr-io.zebar -e
 winget install --id=Alacritty.Alacritty -e
 winget install --id=BlenderFoundation.Blender -e
 winget install --id=TheDocumentFoundation.LibreOffice -e
@@ -36,6 +37,4 @@ winget install --id=Obsidian.Obsidian -e
 winget install --id=CharlesMilette.TranslucentTB -e
 winget install --id=LMMS.LMMS -e
 winget install --id=PrismLauncher.PrismLauncher -e
-
-# uninstall
-winget uninstall zebar
+winget install --id=RARLab.WinRAR -e
