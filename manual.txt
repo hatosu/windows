@@ -1,0 +1,22 @@
+1. disable mouse acceleration
+
+2. if prebuilt or laptop, install all device model drivers BEFORE nvidia/amd/intel ones
+
+3. install latest stock nvidia/amd/intel drivers
+
+4. delete all system fonts, and install these instead:
+https://files.catbox.moe/qcj59b.ttf
+
+5. search "create a restore point" and make sure restore points are enabled
+
+6. uninstall applications with bcuninstaller
+
+7. run with admin powershell (dont forget oo10shutup):
+irm "https://christitus.com/win" | iex
+
+8. import files from the "import" folder
+
+9. read, modify, and run each command below:
+setx OLLAMA_HOST "0.0.0.0:<port-of-choice>"
+nvidia-smi -L
+setx CUDA_VISIBLE_DEVICES "<id-of-whatever-command-output"
