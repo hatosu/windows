@@ -4,7 +4,7 @@
 
 (note, this repo only exists for me to use) how to install:
   ```powershell
-  # in order, run all following commands w/ ADMIN
+  # as ADMIN, run all following commands in order
   Set-ExecutionPolicy RemoteSigned
   iex ((New-Object System.Net.WebClient).DownloadString('https://raw.githubusercontent.com/hatosu/windows/master/scripts/install.ps1'))
   iex ((New-Object System.Net.WebClient).DownloadString('https://raw.githubusercontent.com/hatosu/windows/master/scripts/file.ps1'))

@@ -1,6 +1,3 @@
-# go to userdir
-cd "$env:USERPROFILE\"
-
 # winget
 if (-not (Get-Command winget -ErrorAction SilentlyContinue)) {
     Write-Host "winget not installed, attempting to install"
