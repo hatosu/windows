@@ -1,0 +1,8 @@
+1. install latest stock nvidia/amd/intel drivers
+
+2. import files from the "import" folder
+
+3. read, modify, and run each command below:
+setx OLLAMA_HOST "0.0.0.0:<port-of-choice>"
+nvidia-smi -L
+setx CUDA_VISIBLE_DEVICES "<id-of-whatever-command-output"
