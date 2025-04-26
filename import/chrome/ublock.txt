@@ -1,18 +1,19 @@
+! kotoba visual clarity
 discord.com##.sidebar_c48ade
 discord.com##.bar_c38106
-discord.com##div.embedField__623de:nth-of-type(2)
-discord.com##.embedMargin__623de.embedDescription__623de
-discord.com##.embedMargin__623de.embedTitle__623de
-discord.com##.header_c19a55
-discord.com##.grow__201d5.colorBrand__201d5.lookBlank__201d5.button__201d5.attachButton__74017.attachButton__0923f
-discord.com##.base_b88801.typing_b88801
-discord.com##.buttons__74017
-discord.com##.search__49676
 discord.com##.clickable__9293f.iconWrapper__9293f.icon_d98031
 discord.com##div.clickable__9293f.iconWrapper__9293f:nth-of-type(2)
 discord.com##div.clickable__9293f.iconWrapper__9293f:nth-of-type(4)
 discord.com##div.clickable__9293f.iconWrapper__9293f:nth-of-type(5)
-discord.com##.children__9293f > div.iconWrapper__9293f:nth-of-type(3)
-discord.com##.children__9293f > div.iconWrapper__9293f:nth-of-type(1)
-discord.com##.title__9293f.defaultColor__5345c.text-md\/medium_cf4812.defaultColor__4bd52
-discord.com##.caret__9293f
+discord.com##.search__49676
+discord.com##div.titleWrapper__9293f:nth-of-type(2)
+discord.com##.embedMargin__623de.embedTitle__623de
+discord.com##.embedMargin__623de.embedDescription__623de
+discord.com##div.embedField__623de:nth-of-type(2)
+discord.com##div.embedField__623de:nth-of-type(3)
+discord.com##.embedFieldName__623de
+discord.com##.embedMargin__623de.embedFooter__623de
+discord.com##.timestampInline_c19a55.timestamp_c19a55
+
+! remove images
+discord.com##.container_b7e1cb
